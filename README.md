@@ -43,11 +43,17 @@ Risk Matrix
 Scatter (PD vs LGD)
 waterfall value
 
-5.Vintage analysis:
+5.Vintage analysis:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
 Vintage Curve
 Monthly Default Trend
 Cumulative Loss
 marginloss trend
 cumulative recoveries
+
+6.Monthly loss:
+gross loss vs recoveries
+payment trend
+monthly default trend
+net loss trend
 Bucket Movement
 Monthly Delinquency Trend
