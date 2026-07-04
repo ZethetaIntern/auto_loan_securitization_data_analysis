@@ -82,7 +82,7 @@ Remaining Principal
 Rating Distribution
 Investor KPIs
 
-10.Securitization risk arena dashboard:
+10.Securitization risk arena dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/10.png
 Scenario Selector
 Risk Meter
 Portfolio Health Score
