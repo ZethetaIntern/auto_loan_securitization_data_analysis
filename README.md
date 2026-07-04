@@ -3,7 +3,7 @@ Built a Securitisation Risk Assessment Dashboard using Microsoft Power BI, Excel
 my final dashbard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
 
 
-##1.Executive portfolio dashboard:(https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/1.png)
+## 1.Executive portfolio dashboard:(https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/1.png)
 KPI Cards
 Loan Balance
 ECL
@@ -18,7 +18,15 @@ Channel Analysis
 State-wise Exposure
 Balance Distribution
 
-2.Portfolio risk dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/2.png
+## Insights:
+The portfolio has a total outstanding balance of 317.79M across 500 loans, with an estimated ECL of 11.66M.
+The average CIBIL score (739) indicates generally good borrower credit quality.
+SUVs and MUVs contribute the highest loan exposure, making them the largest risk segments.
+Nearly 86% of loans remain in IFRS Stage 1, suggesting most borrowers are performing well.
+Chhattisgarh, Gujarat, and Goa have the highest outstanding balances and should be monitored closely.
+Most loans are issued for new vehicle purchases, indicating new vehicle financing dominates the portfolio.
+
+## 2.Portfolio risk dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/2.png
 kpi cards
 average EAD
 average PD
@@ -27,14 +35,14 @@ IFRS stage distribution
 cibil score
 LTV current
 
-3.Deliquency dashborad:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/3.png
+## 3.Deliquency dashborad:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/3.png
 DPD Distribution
 Roll Rate
 Cure Rate
 Write-offs
 Repossessions
 
-4.IFRS 9 and ECL dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/4.png
+## 4.IFRS 9 and ECL dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/4.png
 Stage Distribution
 PD
 LGD
@@ -44,27 +52,27 @@ Risk Matrix
 Scatter (PD vs LGD)
 waterfall value
 
-5.Vintage analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
+##5.Vintage analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
 Vintage Curve
 Monthly Default Trend
 Cumulative Loss
 marginloss trend
 cumulative recoveries
 
-6.Monthly loss dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
+## 6.Monthly loss dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
 gross loss vs recoveries
 payment trend
 monthly default trend
 net loss trend
 
-7.Stress testing dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/7.png
+## 7.Stress testing dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/7.png
 Scenario Slicer
 Base Case
 Moderate
 Severe
 Stressed ECL
 
-8.Waterfall analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/8.png
+## 8.Waterfall analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/8.png
 Opening Balance
 Defaults
 Recoveries
@@ -73,7 +81,7 @@ Closing Balance
 Waterfall Chart
 Monthly Waterfall Trend
 
-9.Investor reporting dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/9.png
+## 9.Investor reporting dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/9.png
 Pool Performance
 Default %
 Recovery %
@@ -83,7 +91,7 @@ Remaining Principal
 Rating Distribution
 Investor KPIs
 
-10.Securitization risk arena dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/10.png
+## 10.Securitization risk arena dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/10.png
 Scenario Selector
 Risk Meter
 Portfolio Health Score
