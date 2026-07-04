@@ -33,7 +33,7 @@ Cure Rate
 Write-offs
 Repossessions
 
-4.IFRS 9 and ECL dashboard:
+4.IFRS 9 and ECL dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/4.png
 Stage Distribution
 PD
 LGD
@@ -42,5 +42,12 @@ Expected Credit Loss
 Risk Matrix
 Scatter (PD vs LGD)
 waterfall value
+
+5.Vintage analysis:
+Vintage Curve
+Monthly Default Trend
+Cumulative Loss
+marginloss trend
+cumulative recoveries
 Bucket Movement
 Monthly Delinquency Trend
