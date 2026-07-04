@@ -1,7 +1,8 @@
 # auto_loan_securitization_data_analysis
 Built a Securitisation Risk Assessment Dashboard using Microsoft Power BI, Excel Power Pivot, and advanced DAX with assumed SAP/ERP banking data.Built a Securitisation Risk Assessment Dashboard using Microsoft Power BI, Excel Power Pivot, and advanced DAX with assumed SAP/ERP banking data.
-my final dashbard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
-
+my final dashbard:
+https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
+https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbix
 
 ## 1.Executive portfolio dashboard:(https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/1.png)
 KPI Cards
